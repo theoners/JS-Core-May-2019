@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e332428-c5d8-4bbc-a50c-210860fdeb45" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09.Warehouse/09. Warehouse.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="35" column="78" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="78" />
+              <folding>
+                <element signature="n#!!block;n#capacity#1;n#Warehouse#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09.Warehouse/09.Warehouse.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+              <folding>
+                <element signature="e#110#362#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01. Data Class.js" />
+        <option value="$PROJECT_DIR$/02. Tickets.js" />
+        <option value="$PROJECT_DIR$/03. Unity.js" />
+        <option value="$PROJECT_DIR$/04. Length Limit.js" />
+        <option value="$PROJECT_DIR$/06. Sorted List.js" />
+        <option value="$PROJECT_DIR$/07. Instance Validation.js" />
+        <option value="$PROJECT_DIR$/05. Extensible Class.js" />
+        <option value="$PROJECT_DIR$/08. Kitchen.js" />
+        <option value="$PROJECT_DIR$/09. Warehouse.js" />
+        <option value="$PROJECT_DIR$/09.Warehouse/09. Warehouse.js" />
+        <option value="$PROJECT_DIR$/09.Warehouse/demo.js" />
+        <option value="$PROJECT_DIR$/09.Warehouse/09.Warehouse.test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1905" />
+    <option name="width" value="1948" />
+    <option name="height" value="2075" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Exercise-JS Classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-JS Classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Exercise-JS Classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Exercise-JS Classes" type="462c0819:PsiDirectoryNode" />
+              <item name="09.Warehouse" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/09.Warehouse/09.Warehouse.test.js" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\theon\WebstormProjects\Exercise-JS Classes\09.Warehouse" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.09.Warehouse\09.Warehouse.test.js">
+    <configuration name="05. Extensible Class.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="05. Extensible Class.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="06. Sorted List.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="06. Sorted List.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="07. Instance Validation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="07. Instance Validation.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="08. Kitchen.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="08. Kitchen.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="09.Warehouse.test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="09.Warehouse.test.js" working-dir="$PROJECT_DIR$/09.Warehouse">
+      <method v="2" />
+    </configuration>
+    <configuration name="09.Warehouse\09.Warehouse.test.js" type="mocha-javascript-test-runner" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$USER_HOME$/AppData/Roaming/npm/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/09.Warehouse/09.Warehouse.test.js</test-file>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.09.Warehouse\09.Warehouse.test.js" />
+      <item itemvalue="Node.js.05. Extensible Class.js" />
+      <item itemvalue="Node.js.06. Sorted List.js" />
+      <item itemvalue="Node.js.07. Instance Validation.js" />
+      <item itemvalue="Node.js.08. Kitchen.js" />
+      <item itemvalue="Node.js.09.Warehouse.test.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.09.Warehouse.test.js" />
+        <item itemvalue="Node.js.08. Kitchen.js" />
+        <item itemvalue="Node.js.05. Extensible Class.js" />
+        <item itemvalue="Node.js.07. Instance Validation.js" />
+        <item itemvalue="Node.js.06. Sorted List.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e332428-c5d8-4bbc-a50c-210860fdeb45" name="Default Changelist" comment="" />
+      <created>1561843385831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561843385831</updated>
+      <workItem from="1561843387155" duration="27220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="09_Warehouse_09_Warehouse_test_js - 2019.07.02 at 21h 26m 44s.xml">
+      <configuration name="09.Warehouse\09.Warehouse.test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="09_Warehouse_09_Warehouse_test_js - 2019.07.02 at 21h 28m 41s.xml">
+      <configuration name="09.Warehouse\09.Warehouse.test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="09_Warehouse_09_Warehouse_test_js - 2019.07.02 at 21h 29m 16s.xml">
+      <configuration name="09.Warehouse\09.Warehouse.test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="09_Warehouse_09_Warehouse_test_js - 2019.07.02 at 21h 30m 50s.xml">
+      <configuration name="09.Warehouse\09.Warehouse.test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="09_Warehouse_09_Warehouse_test_js - 2019.07.02 at 21h 33m 35s.xml">
+      <configuration name="09.Warehouse\09.Warehouse.test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="09_Warehouse_09_Warehouse_test_js - 2019.07.02 at 21h 33m 45s.xml">
+      <configuration name="09.Warehouse\09.Warehouse.test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="09_Warehouse_09_Warehouse_test_js - 2019.07.02 at 21h 36m 32s.xml">
+      <configuration name="09.Warehouse\09.Warehouse.test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="09_Warehouse_09_Warehouse_test_js - 2019.07.02 at 21h 36m 55s.xml">
+      <configuration name="09.Warehouse\09.Warehouse.test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="09_Warehouse_09_Warehouse_test_js - 2019.07.02 at 21h 37m 26s.xml">
+      <configuration name="09.Warehouse\09.Warehouse.test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="09_Warehouse_09_Warehouse_test_js - 2019.07.02 at 21h 39m 30s.xml">
+      <configuration name="09.Warehouse\09.Warehouse.test.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27220000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16644649" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="GraphQL" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32892805" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/08. Kitchen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="62" column="22" lean-forward="true" selection-end-line="70" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05. Extensible Class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="29" lean-forward="true" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Instance Validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Sorted List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. Length Limit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03. Unity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02. Tickets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01. Data Class.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.Warehouse/demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="46" column="24" lean-forward="true" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.Warehouse/09. Warehouse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="35" column="78" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="78" />
+          <folding>
+            <element signature="n#!!block;n#capacity#1;n#Warehouse#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09.Warehouse/09.Warehouse.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          <folding>
+            <element signature="e#110#362#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
